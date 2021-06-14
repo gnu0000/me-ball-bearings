@@ -1,0 +1,20 @@
+{
+  "name": "step4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Craig Fitz",
+  "license": "none",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "three": "^0.129.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.5.6"
+  }
+}

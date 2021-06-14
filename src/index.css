@@ -1,0 +1,45 @@
+html, body {
+   height: 100%;
+   border: 0;
+   margin: 0;
+   font-family: Arial,Helvetica,sans-serif;
+   color: #444;
+}
+
+#banner {
+	position: absolute;
+	box-sizing: border-box;
+	top: 0px;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+	z-index: 1;
+}
+
+a {
+   color: #444;
+}
+
+#info {
+	position: absolute;
+	box-sizing: border-box;
+	top: 30px;
+	width: 100%;
+	padding: 10px;
+	font-size: 12px;
+	z-index: 1;
+}
+
+#info, #credits {
+	position: absolute;
+	box-sizing: border-box;
+	top: 30px;
+	width: 100%;
+	padding: 10px;
+	font-size: 12px;
+	z-index: 1;
+}
+
+#credits {
+	top: 50px;
+}
