@@ -1,3 +1,9 @@
+
+Extended example from three.js 
+https://craig-fitzgerald.com/
+
+
+...
 npm init
 npm install jquery --save
 npm install three  --save
